@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leonidas-Kontoulis
-- 👀 I’m interested in Databases and the Cloud
+- 👀 I’m interested in Databases
 - 🌱 I’m currently learning Databricks, snowflake and dbt  
 - 💞️ I’m looking to collaborate on Database Systems Research
 - 📫 How to reach me - LinkedIn:https://www.linkedin.com/in/leonidaskontoulis/  email: leokontoulis@gmail.com
