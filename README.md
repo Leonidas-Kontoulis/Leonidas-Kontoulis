@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Leonidas-Kontoulis
-- 👀 I’m interested in Databases
-- 🌱 I’m currently learning Databricks, snowflake and dbt  
-- 💞️ I’m looking to collaborate on Database Systems Research
+- 👋 Hi, I’m @Leonidas-Kontoulis! 
+- 👀 I’m interested in Databases & Data Warehouses
+- 🌱 I’m currently learning DevOps & Automations  
+- 💞️ I’m looking to collaborate on Databases, Data Warehouses and DevOps
 - 📫 How to reach me - LinkedIn:https://www.linkedin.com/in/leonidaskontoulis/  email: leokontoulis@gmail.com
 
 <!---
